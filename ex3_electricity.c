@@ -1,11 +1,11 @@
-/* Name: Your Full Name */
-/* Student Number: Your Registration Number */
+/* Name:JUUKO Morris */
+/* Student Number: 25/U/BIE/01375/PE */
 
 #include <stdio.h>
 
 int main(void)
 {
-loat unitsConsumed, costPerunit, totalElectricityBill;
+float unitsConsumed, costPerunit, totalElectricityBill;
     // Prompt the user for the units consumed and the cost per unit
 
 
